@@ -1,0 +1,125 @@
+.scrim {
+    height: 300px;
+    width: 270px;
+    display: inline;
+    position:relative;
+    left: 150px;
+    top: 0px;
+}
+.start {
+    font-family: impact;
+    font-size: 25pt;
+    text-align: center;
+    background-color: red;
+}
+.sui {
+    height: 400px;
+    width: 900px;
+    position: relative;
+    left: 40px;
+    display: inline;
+}
+body {
+    background-color: gray;
+}
+.d{
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+    left: 40px;
+    top: 0px;
+}
+.dd{
+    height: 200px;
+    width: 200px;
+    display: inline;
+    position: relative;
+    left: 40px;
+}
+.logo{
+    height: 200px;
+    width: 900px;
+    position: relative;
+    left: 244px;
+}
+.ruby{
+    height: 300px;
+    width: 270px;
+    display: inline;
+    position: relative;
+    top: 0px;
+    left: 700px;
+}
+.z{
+    font-family: Stencil;
+}
+.r{
+    font-family: Stencil;
+    display: inline;
+}
+.pred{
+    font-size: 35pt;
+    font-family: impact;
+    font-feature-settings: "aalt";
+    text-align: center;
+    background-color: red;
+    border-radius: 45%;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.skott{
+    font-size: 20pt;
+    font-family: Constantia;
+    text-align: justify;
+
+}
+.red{
+    font-size: 20pt;
+    font-family: impact;
+    text-align: justify;
+    color: red;
+}
+.young_scrim{
+    height: 180px;
+    width: 140px;
+    margin: 10px;
+}
+.young_ruby{
+    height: 180px;
+    width: 140px;
+    margin: 5px;
+}
+.rr{
+    background-color: red;
+}
+table {
+    font-family: Constantia;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: red;
+    color: black;
+    border: 16px solid red;
+    border-radius: 20px;
+}
+th {
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+}
+td {
+    background: gray;
+    padding: 10px;
+    text-align: center;
+}
+BODY {
+    margin: 40px; 
+}
+.checkbox{
+    background-color: red;
+}
+.Album{
+    height: 200px;
+    width: 200px;
+}
